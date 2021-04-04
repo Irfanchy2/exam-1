@@ -2,6 +2,10 @@
     body{
         overflow-x: hidden;
     }
+    .another-box {
+        top: 39%;
+        left: 27%;
+    }
 }
 @media all and (max-width: 1200px){
 
